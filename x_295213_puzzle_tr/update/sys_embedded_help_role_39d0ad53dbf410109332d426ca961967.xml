@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_295213_puzzle_tr.user" name="x_295213_puzzle_tr.user">35d0ad53dbf410109332d426ca961963</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>joeadmin</sys_created_by>
+        <sys_created_on>2020-05-20 23:20:03</sys_created_on>
+        <sys_id>39d0ad53dbf410109332d426ca961967</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>35d0ad53dbf410109332d426ca961963</sys_name>
+        <sys_package display_value="Puzzle Tracker" source="x_295213_puzzle_tr">5ba02553dbf410109332d426ca96193c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Puzzle Tracker">5ba02553dbf410109332d426ca96193c</sys_scope>
+        <sys_update_name>sys_embedded_help_role_39d0ad53dbf410109332d426ca961967</sys_update_name>
+        <sys_updated_by>joeadmin</sys_updated_by>
+        <sys_updated_on>2020-05-20 23:20:03</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
